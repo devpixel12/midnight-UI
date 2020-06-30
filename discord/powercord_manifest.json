@@ -1,0 +1,8 @@
+{
+	"name": "MidnightUI",
+    "description": "The most customizable Discord theme",
+    "version": "1.0.0",
+    "author": "pixeljellyfish",
+    "license": "GPL-3.0-only",
+    "theme": "./MidnightUI.css"
+}

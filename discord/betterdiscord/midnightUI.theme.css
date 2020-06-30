@@ -1,0 +1,11 @@
+//META{"name":"midnightUI","description":"a midnight feel user interface for DiscordApp. Fully customizable through the theme file.","author":"pixeljellyfish#3180","version":"1.0.5","website":"https:/devpixel12.github.io/BetterDiscordStuff/midnightUI","source":"https://raw.githubusercontent.com/devpixel12/betterDiscordStuff/blob/master/midnightUI/midnightUI.theme.css"}*//{}
+
+@import url("https://customa.gitlab.io/Customa-Discord/Base/base.m.css");
+
+:root {
+    --ColAppBG: #0F1933;
+    --ColBackground1: #0F1933;
+    --ColBackground2: #0F1933;
+    --ColAccent: #0000FF;
+    ...
+}
